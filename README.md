@@ -43,7 +43,6 @@
 <div align="left"> 
   <h1><img src="https://media.giphy.com/media/hZE5xoaM0Oxw4xiqH7/giphy.gif" height="30px"> Github stats</h1>
     <div align="center">
-      <img align="left" src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" height="150" alt="wave.svg">
       <img align="right" src="https://github-readme-stats.vercel.app/api?username=shahriarEshraghi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura_dark&locale=en&hide_border=true" height="200" alt="stats graph"  />
     </div>
 </div>
