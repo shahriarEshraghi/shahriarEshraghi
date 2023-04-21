@@ -2,17 +2,17 @@
 
 ###
 
-  <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif"  align="right" height="400"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif"  align="right" height="350"/>
 
  <h4>About me</h2>
         <p>
             🔭 I’m currently working as a Front-End Developer in <a href="https://github.com/novaday-co"> Novaday <a><br>
-            🌱 I’m always learning Front Development, Vuejs, Nuxtjs, Typscript ...<br>
+            🌱 I’m always learning Front Development, Vuejs, Nuxtjs, Typescript <br>
             👯 I’m looking to collaborate on different projects....<br>
             🤔 I’m looking for help to develop Web 3 and blockchain programming skills<br>
             💬 Ask me about Vue, JS and CSS <br>
             📫 Reach me on <a href="https://www.linkedin.com/in/shahriar-eshraghi/"> Linkedin <a> <br>
-            🎲 Fun fact: Let's talk about podcasts, reading, and music
+            🎲 Fun fact: Let's talk about podcasts, Books, and music
         </p>
  
  ###
